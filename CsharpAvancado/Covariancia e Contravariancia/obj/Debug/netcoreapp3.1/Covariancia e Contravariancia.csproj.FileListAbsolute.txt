@@ -1,0 +1,13 @@
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.exe
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.deps.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.runtimeconfig.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.runtimeconfig.dev.json
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.dll
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\bin\Debug\netcoreapp3.1\Covariancia e Contravariancia.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.csproj.AssemblyReference.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.AssemblyInfoInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.AssemblyInfo.cs
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.csproj.CoreCompileInputs.cache
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.dll
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.pdb
+C:\Users\DINTER-PPGEFHC-IFBA\source\repos\CSharpAvancado\Covariancia e Contravariancia\obj\Debug\netcoreapp3.1\Covariancia e Contravariancia.genruntimeconfig.cache
